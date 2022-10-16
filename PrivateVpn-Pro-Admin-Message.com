@@ -1,5 +1,5 @@
 {
-"SendMessage":13,
+"SendMessage":1.1,
 "MyMessage":"PRIVATEVPN PRO
 \n\n✓ GTM NO LOAD \n(SSL+PAYLOAD)\n
 \n✓ STS NO LOAD \n(SLOWDNS)\n
