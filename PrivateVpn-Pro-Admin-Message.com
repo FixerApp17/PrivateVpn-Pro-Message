@@ -1,5 +1,5 @@
 {
-"SendMessage":1.6,
+"SendMessage":16,
 "MyMessage":"PRIVATEVPN PRO
 \n
 \n⚠️ Please Paki Ingatan.\nAng Server Para Mag Tagal. \n
