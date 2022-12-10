@@ -1,5 +1,5 @@
 {
-"SendMessage":21,
+"SendMessage":22,
 "MyMessage":"PRIVATE VPN PRO
 \n
 \n⚠️ Please Paki Ingatan.\nAng Server Para Mag Tagal. \n
