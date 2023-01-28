@@ -1,6 +1,6 @@
 {
-"SendMessage":24,
+"SendMessage":25,
 "MyMessage":"PRIVATE VPN PRO
 \n
-\nMagkakaroon Po Tayo Ng Bagong Server Mga Ma'am/Sir at Server Para Sa Torrent Support Good For 3days Trial..\n😁😁
+\nMa'am/Sir Yung Server Para Sa Torrent Support Good For 3days Trial Malapit na ma release..\n😁😁🥰🥰
 \n\nBy: FixerApp"}
